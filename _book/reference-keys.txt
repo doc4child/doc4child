@@ -6,5 +6,7 @@ Murmur
 VSD
 Seizures
 FebSz
+ADHD
+InADHD
 Rashes
 InfRash

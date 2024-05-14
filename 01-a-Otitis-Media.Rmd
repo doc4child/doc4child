@@ -1,7 +1,3 @@
-# (PART) Infectious Diseases {-}
-
-
-
 # Otitis Media{#OM}
 
 ## Acute Otitis Media {#AOM}
