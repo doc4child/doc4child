@@ -1,7 +1,7 @@
-# Applications
+# (PART) Central Nervous System {-}
 
-Some _significant_ applications are demonstrated in this chapter.
 
-## Example one
 
-## Example two
+# Seizures{#Seizures}
+
+## Febrile Seizures {#FebSz}
